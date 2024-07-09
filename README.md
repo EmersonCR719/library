@@ -1,6 +1,14 @@
 # Library
 Desarrollo de una aplicación para gestionar libros en una librería (añadir, eliminar, editar, ver detalles).
 
+## Requisitos Previos
+
+Para ejecutar este proyecto, necesitas tener instalado:
+
+- Java 11 o superior
+- Maven
+- Spring Boot
+
 ## Dependencias
 
 Este proyecto utiliza las siguientes dependencias:
